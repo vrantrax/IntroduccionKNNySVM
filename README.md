@@ -13,6 +13,10 @@ sudo sh Scripts_install-opencv.sh
 Al terminar de instalar las bibliotecas y OpenCV, ahora debe entrar a la carpeta KNN. En ella encontrará el archivo KNN.py, ejecútalo ingresando el siguiente comando en la terminal dentro de la carpeta KNN:
 python KNN.py
 
+Una ventana similar a la siguiente debe ser desplegada. 
+
+![Imagen del ejemplo KNN](https://github.com/vrantrax/IntroduccionKNNySVM/blob/master/Images/knn.png)
+
 Al oprimir el botón B, los clicks del ratón dentro de la ventana desplegarán cuadros azules.
 
 Al oprimir el botón R, los clicks del ratón dentro de la ventana desplegarán cuadros rojos.
